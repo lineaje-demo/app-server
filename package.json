@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "multer": "2.0.2",
-    "ip": "2.0.1",
+    "console-io": "13.0.0",
     "pdf-parse": "^1.1.1",
     "mammoth": "^1.6.0",
     "ws": "8.17.1",
