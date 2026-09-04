@@ -1,0 +1,22 @@
+{
+  "name": "notification-app",
+  "version": "1.0.0",
+  "description": "Express app with file upload and path-to-regexp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "dev": "nodemon app/index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "multer": "2.0.2",
+    "path-to-regexp": "7.2.0",
+    "pdf-parse": "^1.1.1",
+    "mammoth": "^1.6.0",
+    "ws": "8.17.1",
+    "csv-parser": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
