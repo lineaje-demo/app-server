@@ -13,7 +13,7 @@
     "ip": "2.0.1",
     "pdf-parse": "^1.1.1",
     "mammoth": "^1.6.0",
-    "ws": "8.17.1",
+    "ws": "8.21.3",
     "csv-parser": "^3.0.0"
   },
   "devDependencies": {
