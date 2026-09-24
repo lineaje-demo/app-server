@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "multer": "2.0.2",
-    "forge": "2.3.0",
+    "forge": "2.3.0-lineaje-01",
     "pdf-parse": "^1.1.1",
     "mammoth": "^1.6.0",
     "ws": "8.17.1",
