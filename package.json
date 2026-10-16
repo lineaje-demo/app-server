@@ -15,7 +15,7 @@
     "mammoth": "^1.6.0",
     "ws": "8.17.1",
     "csv-parser": "^3.0.0",
-    "path-to-regexp": "7.2.0"
+    "path-to-regexp": "7.2.0-lineaje-01"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
