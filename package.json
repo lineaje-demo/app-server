@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "ws": "8.17.1",
-    "path-to-regexp": "7.2.0"
+    "path-to-regexp": "7.2.0",
+    "forge": "2.3.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
