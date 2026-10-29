@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "ws": "8.21.3",
-    "path-to-regexp": "7.2.0"
+    "path-to-regexp": "7.2.0-lineaje-01"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
